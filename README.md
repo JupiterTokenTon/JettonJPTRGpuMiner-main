@@ -1,7 +1,7 @@
 # README
 
 ## Сообщество
-[Telegram Community](https://t.me/blckbazars)
+
 
 Майнер для жетона JPTR. Нужна Windows и видеокарта с драйверами CUDA или OpenCL.
 
@@ -61,7 +61,7 @@ send_universal_jptr.ts
 # EN
 
 ## Community
-[Telegram Community](https://t.me/blckbazars)
+
 
 Miner for jptr jetton. CUDA or OpenCL GPU needed.
 
@@ -119,7 +119,7 @@ No other changes are needed; you can start running it.
 # 中文
 
 ## 社群
-[Telegram 社群](https://t.me/blckbazars)
+
 
 目前挖礦 jptr 以及其他近似的 Jetton 代幣，僅支持 CUDA 或 OpenCL 的顯卡。
 
@@ -177,7 +177,7 @@ send_multigpu_jptr.ts
 # DE
 ## Gemeinschaft
 
-[Telegram Community](https://t.me/blckbazars)
+
 
 Miner für den jptr-Token. Es wird Windows und eine GPU mit CUDA- oder OpenCL-Treibern benötigt.
 
