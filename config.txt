@@ -1,0 +1,2 @@
+SEED=
+TONAPI_TOKEN=
