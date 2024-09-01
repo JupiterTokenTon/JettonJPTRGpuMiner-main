@@ -1,0 +1,35 @@
+{
+  "name": "minertools-cuda-windows-x86-64",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "compilerOptions": {
+    "module": "esnext",
+    "target": "esnext"
+  },
+  "include": [
+    "**/*.ts"
+  ],
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@orbs-network/ton-access": "^2.3.3",
+    "@scaleton/highload-wallet": "^0.1.1",
+    "@ton/core": "^0.54.0",
+    "@ton/crypto": "^3.2.0",
+    "@ton/ton": "^13.9.0",
+    "arg": "^5.0.2",
+    "axios": "^1.6.7",
+    "dotenv": "^16.4.1",
+    "ton-lite-client": "npm:@truecarry/ton-lite-client@^3.1.1",
+    "tonapi-sdk-js": "^1.0.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  },
+  "packageManager": "pnpm@8.6.7+sha512.bd1216a43fcbe2985ff41936a3f3b64c347c7c5a099e962ba764caa9321917fa99dbfae02f7a8a5f31e87c781b5ec8a7c0ca12122833dbcb2a937a50fb230441"
+}
