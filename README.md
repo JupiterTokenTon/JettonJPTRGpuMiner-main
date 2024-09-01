@@ -11,7 +11,6 @@
   
   ```
   SEED=word1 word2
-  TONAPI_TOKEN=
   ```
 
 - Активируйте v4r2 кошелек. Отправьте на него средства, а потом отправьте транзакцию самому себе.
@@ -72,7 +71,6 @@ Miner for jptr jetton. CUDA or OpenCL GPU needed.
 
   ```
   SEED=word1 word2
-  TONAPI_TOKEN=
   ```
 
 - Activate the v4r2 wallet linked to the mnemonic and send some funds there.
@@ -189,7 +187,6 @@ Miner für den jptr-Token. Es wird Windows und eine GPU mit CUDA- oder OpenCL-Tr
 
   ```
   SEED=word1 word2
-  TONAPI_TOKEN=
   ```
 
 - Aktivieren Sie die v4r2-Wallet. Senden Sie Mittel darauf und übertragen Sie dann eine Transaktion an sich selbst.
